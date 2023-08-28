@@ -16,6 +16,6 @@ python3 server.py
 ```
 and the client in the same way:
 ```
-python3 server.py
+python3 client.py
 ```
 That's it, really minimal.
