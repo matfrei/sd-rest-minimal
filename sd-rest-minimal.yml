@@ -1,4 +1,0 @@
-name: flask-server
-channels:
-  - defaults
-prefix: /home/matthias/anaconda3/envs/flask-server
